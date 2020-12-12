@@ -16,7 +16,7 @@ public class Main {
         biggerBox.add(box);
         biggerBox.add(new Book("Hedgar Allan Poe", "Necronomicon", 1.2));
 
-        System.out.println(box.toString());
-        System.out.println(biggerBox.toString());
+        System.out.println(box);
+        System.out.println(biggerBox);
     }
 }
